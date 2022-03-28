@@ -164,13 +164,13 @@ footer div.footer_container .row .button_footer button {
     height: 1530px;
   }
   footer {
-    height: 700px;
+    height: 470px;
   }
   footer div.footer_container {
-    height: 700px;
+    height: 470px;
   }
   footer div.footer_container div.row {
-    height: 700px;
+    height: 465px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
